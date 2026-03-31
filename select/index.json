@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "LOVE ATTACK",
+  "base_artist": "RESCENE",
+  "createdAt": "2026-03-31T15:09:54.220239Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Bad Company",
+      "has_synced": false,
+      "path": "select/01_Love_Attack_Bad_Company.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "James Carr",
+      "has_synced": false,
+      "path": "select/02_Love_Attack_James_Carr.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_Love_Attack_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "DEAMN",
+      "has_synced": true,
+      "path": "select/04_Love_Attack_DEAMN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Robin Trower",
+      "has_synced": false,
+      "path": "select/05_Love_Attack_Robin_Trower.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Monster Truck",
+      "has_synced": true,
+      "path": "select/06_Love_Attack_Monster_Truck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/07_Love_Attack_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Fhin",
+      "has_synced": true,
+      "path": "select/08_Love_Attack_Fhin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Matt Dusk",
+      "has_synced": false,
+      "path": "select/09_Love_Attack_Matt_Dusk.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "James Carr",
+      "has_synced": true,
+      "path": "select/10_Love_Attack_James_Carr.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LOVE ATTACK",
+      "artist": "RESCENE",
+      "has_synced": false,
+      "path": "select/11_LOVE_ATTACK_RESCENE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LOVE ATTACK",
+      "artist": "RESCENE (리센느)",
+      "has_synced": true,
+      "path": "select/12_LOVE_ATTACK_RESCENE_(리센느).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LOVE ATTACK (LOVE ATTACK)",
+      "artist": "RESCENE",
+      "has_synced": true,
+      "path": "select/13_LOVE_ATTACK_(LOVE_ATTACK)_RESCENE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Attack",
+      "artist": "Shakin' Stevens",
+      "has_synced": true,
+      "path": "select/14_Love_Attack_Shakin'_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love Attack (Single version)",
+      "artist": "Shakin' Stevens",
+      "has_synced": false,
+      "path": "select/15_Love_Attack_(Single_version)_Shakin'_Stevens.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE ATTACK",
+      "artist": "RESCENE",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_ATTACK_RESCENE.txt"
+    }
+  ]
+}
